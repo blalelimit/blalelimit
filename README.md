@@ -8,5 +8,3 @@ I am **blalelimit**, currently studying Computer Science. I mostly compile the p
 - ⚡ Fun fact: It's all coming together, everything, the stars in the galaxy.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blalelimit&layout=compact&theme=github_dark&hide_border=true)
-
-![blalelimit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blalelimit&show_icons=true&hide_border=true&theme=github_dark)
