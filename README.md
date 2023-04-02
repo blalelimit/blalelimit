@@ -6,5 +6,6 @@ I am **blalelimit**, currently studying Computer Science. I mostly compile the p
 - 🌱 I’m currently learning HTML and Javascript. I also aspire to improve my skills in Python and Software Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It's all coming together, everything, the stars in the galaxy.
+- 🥅 Goals: To improve my skills in Python, Javascript, Software and Web Development.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blalelimit&layout=compact&theme=github_dark&hide_border=true)
