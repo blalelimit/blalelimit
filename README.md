@@ -7,4 +7,4 @@ I am **blalelimit**, currently studying Computer Science. I mostly compile the p
 - ⚡ Fun Fact: It's all coming together, everything, the stars in the **galaxy**.
 - 🥅 Goals: To find job opportunities and improve my current Tech Stack.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blalelimit&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blalelimit&layout=compact&theme=transparent&hide_border=false&border_color=006aff&text_color=006aff)
