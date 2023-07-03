@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am **blalelimit**, currently studying Computer Science. I mostly compile the projects I create through Python, Java, and Jupyter Notebook. I currently enjoy multimedia processing through FFmpeg, as well as Machine Learning.
+I am **blalelimit**. I mostly compile the projects I create through Python, Javascript, and Java. I currently enjoy Web Development through React, multimedia processing using FFmpeg, as well as Machine Learning advancements.
 
 - 🔭 I’m currently looking for job opportunities and a bright future.
-- 🌱 I’m currently learning more about Python and Javascript, in particular the extensive libraries of Python and Node.js.
+- 🌱 I’m currently learning more about Python and Javascript, in particular the extensive libraries of Python, Node.js, and React.
 - ⚡ Fun Fact: It's all coming together, everything, the stars in the **galaxy**.
-- 🥅 Goals: To find job opportunities and improve my current Tech Stack.
+- 🥅 Goals: To find job opportunities and improve my current skills as a developer.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blalelimit&layout=compact&theme=transparent&hide_border=false&border_color=006aff&text_color=006aff)
